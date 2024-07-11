@@ -1,0 +1,38 @@
+body {
+	background:black
+}
+.post{
+        width: 612px;
+        height: 612px;
+        background: white;
+        margin: auto;
+    }
+.post-header{
+  font-size: 45px;
+  padding: 0px 0px 0px 0px;
+  display: flex;
+  justify-content:space-between
+
+}
+.post-img{
+        width: -10px;
+        height: 20px;
+ }
+ .post-icons{
+  font-size: 33px;
+  display: flex;
+  justify-content: space-between;
+ }
+.post-body{
+
+ }
+ .fa-bookmark:before{
+  justify-content: space-around;
+  display: flex;
+  margin: 00px 0px 0px 485px;
+}
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
